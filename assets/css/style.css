@@ -80,10 +80,10 @@ footer {
 
 #bodyContent {
     line-height: 3em;
-    padding: 10px 10px 65px 30px;
+    padding: 10px 10px 45px 30px;
     margin-top: 10px;
     margin-left: 19.5%;
-    max-width: 960px;
+    max-width: 930px;
     background-color: white;
     border: 1px solid #D3D3D3;
 }
@@ -164,7 +164,7 @@ label {
     padding: 10px 10px 65px 30px;
     margin-top: 10px;
     margin-left: 19.5%;
-    max-width: 960px;
+    max-width: 930px;
     background-color: white;
     border: 1px solid #D3D3D3;
 }
@@ -247,7 +247,7 @@ label {
     padding: 10px 10px 600px 30px;
     margin-top: 10px;
     margin-left: 19.5%;
-    max-width: 960px;
+    max-width: 930px;
     background-color: white;
     border: 1px solid #D3D3D3;
 }
